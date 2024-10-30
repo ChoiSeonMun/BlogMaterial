@@ -2,3 +2,4 @@
 
 # 목록
 - [교착 상태 탐지하기](https://haedallog.tistory.com/198) : [DeadlockProfiler](./DeadlockProfiler/)
+- [유저 인벤토리 구현](https://haedallog.tistory.com/202) : [Inventory](./Inventory/)
